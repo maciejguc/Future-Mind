@@ -5,15 +5,15 @@ Dziękuję za zaproszenie do procesu i poświęcony czas. Dobrze się bawiłem p
 
 ## Struktura projektu
 
-**deliverables/01-questions/** - Pytania do klienta dotyczące integracji z Paczkomatami InPost
+01-questions/** - Pytania do klienta dotyczące integracji z Paczkomatami InPost
 
-**deliverables/02-user-stories/** - User stories dla procesu dostawy i zwrotów
+02-user-stories/** - User stories dla procesu dostawy i zwrotów
 
-**deliverables/03-diagrams/** - Diagramy BPMN i sekwencji UML dla procesów biznesowych
+03-diagrams/** - Diagramy BPMN i sekwencji UML dla procesów biznesowych
 
-**deliverables/04-nfr/** - Wymagania niefunkcjonalne systemu
+04-nfr/** - Wymagania niefunkcjonalne systemu
 
-**deliverables/05-additional-features/** - Propozycje dodatkowych funkcjonalności dla aplikacji mobilnej
+05-additional-features/** - Propozycje dodatkowych funkcjonalności dla aplikacji mobilnej
 
-**deliverables/api-contracts/** - Kontrakt REST API dla integracji z Paczkomatami
+06-api-contracts/** - Kontrakt REST API dla integracji z Paczkomatami
 
